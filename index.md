@@ -5,6 +5,16 @@
 layout: home
 ---
 
-# Check it out, man.
+is a project aimed at developing an approach to research-creation with a focus on recoverability, notably via the MDMA.
 
-Want to know aaaaalll [about it](about/)?
+
+---
+
+
+### [Who are we?]({{ "people/" | relative_url }})
+
+### [What is the MDMA?]({{ "mdma/" | relative_url }})
+
+### [Can I see some examples?]({{ "examples/" | relative_url }})
+
+### [What should I read?]({{ "bibliography/" | relative_url }})
