@@ -15,14 +15,14 @@ Concordia University
 Montréal, Canada
 
 Associate Director  
-[Technoculture, Art, and Games (TAG) Research Centre](https://tag.hexgram.ca)  
+[Technoculture, Art, and Games (TAG) Research Centre](https://tag.hexagram.ca)  
 Milieux Institute of Art, Culture, and Technology  
 Concordia University  
 Montréal Canada
 
-Website: https://www.pippinbarr.com/  
-Github: https://www.github.com/pippinbarr/  
-Twitter: https://www.twitter.com/pippinbarr/  
+Website: [https://www.pippinbarr.com/](https://www.pippinbarr.com/)  
+Github: [https://www.github.com/pippinbarr/](https://www.github.com/pippinbarr/)  
+Twitter: [https://www.twitter.com/pippinbarr/](https://www.twitter.com/pippinbarr/)  
 
 # Rilla Khaled
 
@@ -32,13 +32,13 @@ Concordia University
 Montréal, Canada
 
 Director  
-[Technoculture, Art, and Games (TAG) Research Centre](https://tag.hexgram.ca)  
+[Technoculture, Art, and Games (TAG) Research Centre](https://tag.hexagram.ca)  
 Milieux Institute of Art, Culture, and Technology  
 Concordia University  
 Montréal Canada
 
-Website: https://www.rillakhaled.com/  
-Github: https://www.github.com/rillakhaled/  
+Website: [https://www.rillakhaled.com/](https://www.rillakhaled.com/)  
+Github: [https://www.github.com/rillakhaled/](https://www.github.com/rillakhaled/)  
 
 # Jonathan Lessard
 
@@ -52,6 +52,6 @@ Director
 Concordia University  
 Montréal Canada
 
-Website: https://www.jonathanlessard.com/  
-Github: https://www.github.com/unkelben/  
-Twitter: https://twitter.com/glandeurlessard  
+Website: [https://www.jonathanlessard.com/](https://www.jonathanlessard.com/)  
+Github: [https://www.github.com/unkelben/](https://www.github.com/unkelben/)  
+Twitter: [https://twitter.com/glandeurlessard](https://twitter.com/glandeurlessard)  
