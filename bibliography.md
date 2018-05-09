@@ -29,7 +29,7 @@ Proceedings of the Design, Research, Society Conference 2014. Umea, Sweden.
 
 
 ## Design and Context
-* : Elizabeth Boling. (2010). The Need for Design Cases: Disseminating Design Knowledge. International Journal of Designs for Learning, (1) 1. 1-8.
+* Elizabeth Boling. (2010). The Need for Design Cases: Disseminating Design Knowledge. International Journal of Designs for Learning, (1) 1. 1-8.
 * Donald A. Schön. (1983). The Reflective Practitioner: How Professionals Think in Action. Basic Books.
 
 ## Design artifacts
