@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
 ---
 
 is a project aimed at developing an approach to research-creation with a focus on recoverability, notably via the MDMA.
