@@ -17,8 +17,8 @@ title: Games as Research
 email: pippin.barr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Gams
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/games-as-research" # the subpath of your site, e.g. /blog
+url: "https://pippinbarr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pippinbarr
 github_username:  pippinbarr
 
