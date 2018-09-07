@@ -7,7 +7,7 @@ title: Bibliography
 
 ---
 ## Game Design Research: Epistemology, Methods, Documentation
-* Rilla Khaled, Jonathan Lessard, and Pippin Barr. (2018). Documenting Trajectories in Design Space: a Methodology for Applied Game Design Research. Forthcoming in the Proceedings of the 13th International Conference on the Foundations of Digital Games, FDG 2018.
+* Rilla Khaled, Jonathan Lessard, and Pippin Barr. (2018). Documenting Trajectories in Design Space: a Methodology for Applied Game Design Research. In the Proceedings of the 13th International Conference on the Foundations of Digital Games, FDG 2018. [(PDF)](assets/pdfs/Documenting_Trajectories_in_Design_Space.pdf)
 * Annakaisa Kultima. (2015). Game Design Research. In Proceedings of the 19th International Academic Mindtrek Conference (AcademicMindTrek ’15).
 
 
