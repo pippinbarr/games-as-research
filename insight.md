@@ -7,9 +7,6 @@ title: "Research-Creation Support Material"
 
 ---
 
-# Games as Research Research-Creation Support Material
-
-
 ## _It is as if you were doing work_, by Pippin Barr (2017)
 
 A speculative videogame exploring a post-work future for humans. We include it here because it represents a key piloting of the research-creation methodology discussed in this proposal. Specifically, reviewers will be able to see the code history and process materials repository of the game and thus be able to see the extent of information capture possible with the method proposed. We suggest reviewers briefly explore the game and its documentation as follows:
