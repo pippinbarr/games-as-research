@@ -34,7 +34,7 @@ This is a paper written about the research-creation method discussed in this gra
 Citation:  
 Khaled, R., Lessard, J., and Barr, P. Documenting Trajectories in Design Space: A Methodology for Applied Game Design Research. In the Proceedings of Foundations of Digital Games (FDG) 2018. 2018.
 
-[Read the paper here](fdg-2018-documenting-trajectories-in-design-space.pdf) (PDF)
+[Read the paper here](assets/pdfs/fdg-2018-documenting-trajectories-in-design-space.pdf) (PDF)
 
 ---
 
