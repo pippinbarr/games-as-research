@@ -6,11 +6,9 @@ layout: home
 
 ---
 
-is a project aimed at developing an approach to research-creation with a focus on recoverability, notably via the MDM.
+![](assets/images/v-r-4-99-banner.png)
 
-
----
-
+A project aimed at developing an approach to research-creation with a focus on recoverability, notably via the Method for Design Materialization (MDM).
 
 ### [Who are we?]({{ "people" | relative_url }})
 
