@@ -7,12 +7,34 @@ title: Examples
 
 ---
 
-[Sibilant Snakelikes](https://github.com/pippinbarr/sibilant-snakelikes/)
+## Pippin Barr
 
-[Tanks!?](https://github.com/pippinbarr/tanks-exclamation-mark-question-mark)
+...
 
-[b r 1](https://github.com/pippinbarr/b-r-1/)
+### Selected other repositories
+* [Sibilant Snakelikes](https://github.com/pippinbarr/sibilant-snakelikes/)
+* [b r 1](https://github.com/pippinbarr/b-r-1/)
+* [It is as if you were making love](https://github.com/pippinbarr/itisasifyouweremakinglove)
+* [Let's Play: Ancient Greek Punishment: UI Edition](https://github.com/pippinbarr/lets-play-ancient-greek-punishment-ui-edition)
+* [Chesses](https://github.com/pippinbarr/chesses/)
+* [The Nothings Suite](https://github.com/pippinbarr/the-nothings-suite)
 
-[Chogue](https://github.com/pippinbarr/chogue/)
+---
 
-[It is as if you were making love](https://github.com/pippinbarr/itisasifyouweremakinglove)
+## Enric Llagostera
+
+...
+
+---
+
+## Cyrus Lognonné
+
+...
+
+---
+
+## Jonathan Lessard
+
+...
+
+---

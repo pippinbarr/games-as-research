@@ -7,6 +7,7 @@ title: Bibliography
 
 ---
 ## Game Design Research: Epistemology, Methods, Documentation
+* Rilla Khaled and Pippin Barr. (forthcoming). Generative Logics and Conceptual Clicks. *Design Issues*.
 * Rilla Khaled, Jonathan Lessard, and Pippin Barr. (2018). Documenting Trajectories in Design Space: a Methodology for Applied Game Design Research. In the Proceedings of the 13th International Conference on the Foundations of Digital Games, FDG 2018. [(PDF)](assets/pdfs/Documenting_Trajectories_in_Design_Space.pdf)
 * Annakaisa Kultima. (2015). Game Design Research. In Proceedings of the 19th International Academic Mindtrek Conference (AcademicMindTrek ’15).
 
