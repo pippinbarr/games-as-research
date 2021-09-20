@@ -38,12 +38,6 @@ Design and Computation Arts
 Concordia University  
 Montréal, QC, Canada
 
-Director  
-[Technoculture, Art, and Games (TAG) Research Centre](https://tag.hexagram.ca)  
-Milieux Institute of Art, Culture, and Technology  
-Concordia University  
-Montréal, QC, Canada
-
 Website: [https://www.rillakhaled.com/](https://www.rillakhaled.com/)  
 
 # Jonathan Lessard
