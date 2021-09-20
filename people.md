@@ -21,8 +21,15 @@ Concordia University
 Montréal, QC, Canada
 
 Website: [https://www.pippinbarr.com/](https://www.pippinbarr.com/)  
-Github: [https://www.github.com/pippinbarr/](https://www.github.com/pippinbarr/)  
-Twitter: [https://www.twitter.com/pippinbarr/](https://www.twitter.com/pippinbarr/)  
+
+# Danny Godin
+
+Professor  
+Game Design  
+Université du Québec en Abitibi-Témiscamingue (UQAT)  
+Abitibi-Témiscamingue, QC, Canada
+
+Website: [https://www.uqat.ca/services/personnel/fiche.asp?Fiche=110262](https://www.uqat.ca/services/personnel/fiche.asp?Fiche=110262)  
 
 # Rilla Khaled
 
@@ -38,7 +45,6 @@ Concordia University
 Montréal, QC, Canada
 
 Website: [https://www.rillakhaled.com/](https://www.rillakhaled.com/)  
-Github: [https://www.github.com/rillakhaled/](https://www.github.com/rillakhaled/)  
 
 # Jonathan Lessard
 
@@ -53,14 +59,3 @@ Concordia University
 Montréal, QC, Canada
 
 Website: [https://www.jonathanlessard.com/](https://www.jonathanlessard.com/)  
-Github: [https://www.github.com/unkelben/](https://www.github.com/unkelben/)  
-Twitter: [https://twitter.com/glandeurlessard](https://twitter.com/glandeurlessard)  
-
-# Danny Godin
-
-Professor  
-Game Design  
-Université du Québec en Abitibi-Témiscamingue (UQAT)  
-Abitibi-Témiscamingue, QC, Canada
-
-Website: [https://www.uqat.ca/services/personnel/fiche.asp?Fiche=110262](https://www.uqat.ca/services/personnel/fiche.asp?Fiche=110262)  
