@@ -7,7 +7,7 @@ title: "People"
 
 ---
 
-# Pippin Barr!
+# Pippin Barr
 
 Assistant Professor  
 Design and Computation Arts  
