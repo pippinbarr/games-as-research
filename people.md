@@ -9,16 +9,16 @@ title: "People"
 
 # Pippin Barr
 
-Assistant Professor  
+Associate Professor  
 Design and Computation Arts  
 Concordia University  
-Montréal, Canada
+Montréal, QC, Canada
 
 Associate Director  
 [Technoculture, Art, and Games (TAG) Research Centre](https://tag.hexagram.ca)  
 Milieux Institute of Art, Culture, and Technology  
 Concordia University  
-Montréal Canada
+Montréal, QC, Canada
 
 Website: [https://www.pippinbarr.com/](https://www.pippinbarr.com/)  
 Github: [https://www.github.com/pippinbarr/](https://www.github.com/pippinbarr/)  
@@ -29,13 +29,13 @@ Twitter: [https://www.twitter.com/pippinbarr/](https://www.twitter.com/pippinbar
 Associate Professor  
 Design and Computation Arts  
 Concordia University  
-Montréal, Canada
+Montréal, QC, Canada
 
 Director  
 [Technoculture, Art, and Games (TAG) Research Centre](https://tag.hexagram.ca)  
 Milieux Institute of Art, Culture, and Technology  
 Concordia University  
-Montréal Canada
+Montréal, QC, Canada
 
 Website: [https://www.rillakhaled.com/](https://www.rillakhaled.com/)  
 Github: [https://www.github.com/rillakhaled/](https://www.github.com/rillakhaled/)  
@@ -45,13 +45,22 @@ Github: [https://www.github.com/rillakhaled/](https://www.github.com/rillakhaled
 Associate Professor  
 Design and Computation Arts  
 Concordia University  
-Montréal, Canada
+Montréal, QC, Canada
 
 Director  
 [Lab Lab Lab](https://www.lablablab.net/)    
 Concordia University  
-Montréal Canada
+Montréal, QC, Canada
 
 Website: [https://www.jonathanlessard.com/](https://www.jonathanlessard.com/)  
 Github: [https://www.github.com/unkelben/](https://www.github.com/unkelben/)  
 Twitter: [https://twitter.com/glandeurlessard](https://twitter.com/glandeurlessard)  
+
+# Danny Godin
+
+Professor  
+Game Design  
+Université du Québec en Abitibi-Témiscamingue (UQAT)  
+Abitibi-Témiscamingue, QC, Canada
+
+Website: [https://www.uqat.ca/services/personnel/fiche.asp?Fiche=110262](https://www.uqat.ca/services/personnel/fiche.asp?Fiche=110262)  
