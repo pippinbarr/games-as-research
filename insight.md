@@ -40,8 +40,14 @@ Khaled, R., Lessard, J., and Barr, P. Documenting Trajectories in Design Space: 
 
 Below we link to student work at the undergraduate, Master's, and Ph.D. levels using the documentation methodology proposed in this grant application. We include these examples to demonstrate how the approach can be a critical pedagogical approach in design education, as well as a way for graduate students to be accountable about their research-creation work and to be able to recover insights gained in process.
 
-Undergraduate: [V00717 by Sylvain Tran](https://github.com/SylvainTran/V00717). Sylvain is an undergraduate student in Design and Computation Arts at Concordia University. This speculative design project was produced under Dr. Barr's supervision and shows how the methodology approach can draw consistent insight even from first-cycle students.
+### Undergraduate: [V00717 by Sylvain Tran](https://github.com/SylvainTran/V00717)
 
-Master's: [Franklin Ford Bot by Cyrus Lognonné](https://github.com/cyruslk/franklin-ford-bot/blob/master/logs.md). Cyrus was an M.Des. student supervised by Dr. Barr. He was introduced to the MDM documentation approach during his Master's but deployed it in this example for a research project as an RA for [@FRANKLINFORDBOT](https://www.franklinford.org/#about), a SSHRC-funded project with Juliette De Maeyer and Dominique Trudel. Here we see Cyrus using the method to exhaustively document his design and technical insights.
+Sylvain is an undergraduate student in Design and Computation Arts at Concordia University. This speculative design project was produced under Dr. Barr's supervision and shows how the methodology approach can draw consistent insight even from first-cycle students.
 
-Ph.D.: [Something by Enric Llagostera](#). 
+### Master's: [Franklin Ford Bot by Cyrus Lognonné](https://github.com/cyruslk/franklin-ford-bot/blob/master/logs.md)
+
+Cyrus was an M.Des. student supervised by Dr. Barr. He was introduced to the MDM documentation approach during his Master's but deployed it in this example for a research project as an RA for [@FRANKLINFORDBOT](https://www.franklinford.org/#about), a SSHRC-funded project with Juliette De Maeyer and Dominique Trudel. Here we see Cyrus using the method to exhaustively document his design and technical insights.
+
+### Ph.D.: [Something by Enric Llagostera](#)
+
+Lorem ipsum.
