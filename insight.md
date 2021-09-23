@@ -36,7 +36,7 @@ Khaled, R., Lessard, J., and Barr, P. Documenting Trajectories in Design Space: 
 
 ---
 
-## Student projects
+## Student work
 
 Below we link to student work at the undergraduate, Master's, and Ph.D. levels using the documentation methodology proposed in this grant application. We include these examples to demonstrate how the approach can be a critical pedagogical approach in design education, as well as a way for graduate students to be accountable about their research-creation work and to be able to recover insights gained in process.
 
@@ -48,6 +48,6 @@ Sylvain is an undergraduate student in Design and Computation Arts at Concordia 
 
 Cyrus was an M.Des. student supervised by Dr. Barr. He was introduced to the MDM documentation approach during his Master's but deployed it in this example for a research project as an RA for [@FRANKLINFORDBOT](https://www.franklinford.org/#about), a SSHRC-funded project with Juliette De Maeyer and Dominique Trudel. Here we see Cyrus using the method to exhaustively document his design and technical insights.
 
-### Ph.D.: [Something by Enric Llagostera](#)
+### Ph.D.: [How Not to Use a Phone by Enric Llagostera](https://enricllagostera.github.io/how-not-to-use-a-phone/)
 
-Lorem ipsum.
+Enric is a Ph.D. candidate working in the TAG research centre under the supervision of Dr. Khaled. His work focuses on experimental uses of physical devices for controlling videogames, and has been heavily informed in recent years by the use of the MDM documentation approach. The above project, and it's outcomes [Sensing Gestures](https://github.com/enricllagostera/SensingGestures), [Shellphone](https://github.com/enricllagostera/Shellphone), and [RedDirt](https://github.com/enricllagostera/RedDirt) collectively model how advanced graduate students can benefit from this rigorous design research documentation method.
