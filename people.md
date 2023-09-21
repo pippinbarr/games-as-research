@@ -14,7 +14,7 @@ Design and Computation Arts
 Concordia University  
 Montréal, QC, Canada
 
-Associate Director  
+<Associate Director>  
 [Technoculture, Art, and Games (TAG) Research Centre](https://tag.hexagram.ca)  
 Milieux Institute of Art, Culture, and Technology  
 Concordia University  
