@@ -22,8 +22,7 @@ title: Examples
 ---
 
 ## Enric Llagostera
-
-...
+* [gambi_abo](https://github.com/enricllagostera/gambi_abo)
 
 ---
 
@@ -38,3 +37,8 @@ title: Examples
 ...
 
 ---
+
+## M Bethancourt
+* [A Series of Questions](https://github.com/mouseandthebillionaire/_sonicCharacteristics)
+* [TIKATMOS](https://github.com/mouseandthebillionaire/tikatmos) - an example of both how MDM might look in a collaborative context and also one that focuses on public-facing documentation
+* [Purrrfect Pizza](https://github.com/mouseandthebillionaire/purrrfectPizza) - an example of MDM used for a small three-week project
