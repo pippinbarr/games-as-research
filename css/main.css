@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Atkinson;
+    src: url("../assets/fonts/atkinson-hyperlegible-regular-102-webfont.woff");
+}
+
+body {
+    font-family: Atkinson, sans-serif;
+    background-color: #558a45;
+    font-size: 1.25rem;
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: 0rem 1rem 1rem 1rem;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: blue; */
+}
+
+#title {
+    /* background-color: red; */
+    text-align: center;
+    font-size: 8em;
+    color: #4ac1e8;
+    line-height: 0.57em;
+    resize: vertical;
+    /* overflow: auto; */
+}
