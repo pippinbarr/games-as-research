@@ -30,3 +30,16 @@ main {
     resize: vertical;
     /* overflow: auto; */
 }
+
+#email {
+    padding-top: 10vh;
+    text-align: center;
+    font-size: 2em;
+    color: #4ac1e8;
+    resize: vertical;
+}
+
+a {
+    text-decoration: none;
+    color: #4ac1e8;
+}
