@@ -26,8 +26,9 @@ main {
     text-align: center;
     font-size: 8em;
     color: #4ac1e8;
-    line-height: 0.57em;
+    line-height: 0.75em;
     resize: vertical;
+    filter: drop-shadow(10px 4px 4px #222222);
     /* overflow: auto; */
 }
 
@@ -37,6 +38,7 @@ main {
     font-size: 2em;
     color: #4ac1e8;
     resize: vertical;
+    filter: drop-shadow(4px 4px 4px #222222);
 }
 
 a {
