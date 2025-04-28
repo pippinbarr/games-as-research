@@ -3,9 +3,15 @@
     src: url("../assets/fonts/atkinson-hyperlegible-regular-102-webfont.woff");
 }
 
+:root {
+    --background: #3a4226;
+    --foreground: #055fcd;
+    /* --link: rgb(255, 100, 100); */
+}
+
 body {
-    font-family: Atkinson, sans-serif;
-    background-color: #558a45;
+    font-family: Garamond, serif;
+    background-color: var(--background);
     font-size: 1.25rem;
     max-width: 60rem;
     margin: 0 auto;
@@ -25,10 +31,10 @@ main {
     /* background-color: red; */
     text-align: center;
     font-size: 8em;
-    color: #4ac1e8;
+    color: var(--foreground);
     line-height: 0.75em;
     resize: vertical;
-    filter: drop-shadow(10px 4px 4px #222222);
+    /* filter: drop-shadow(10px 4px 4px #222222); */
     /* overflow: auto; */
 }
 
@@ -36,12 +42,12 @@ main {
     padding-top: 10vh;
     text-align: center;
     font-size: 2em;
-    color: #4ac1e8;
+    color: var(--foreground);
     resize: vertical;
-    filter: drop-shadow(4px 4px 4px #222222);
+    /* filter: drop-shadow(4px 4px 4px #222222); */
 }
 
 a {
     text-decoration: none;
-    color: #4ac1e8;
+    color: var(--foreground);
 }
