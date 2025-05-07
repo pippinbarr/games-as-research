@@ -4,50 +4,35 @@
 }
 
 :root {
-    --background: #3a4226;
-    --foreground: #145fa4;
-    /* --link: rgb(255, 100, 100); */
+    --pink: #e8d2d0;
+    --coral: #ea5f57;
+    --black: black;
+    --white: white;
 }
 
 body {
-    font-family: Garamond, serif;
-    background-color: var(--background);
-    font-size: 1.25rem;
-    max-width: 60rem;
+    font-family: Atkinson, sans-serif;
+    background-color: var(--coral);
+    font-size: 1.5rem;
+    max-width: 40rem;
     margin: 0 auto;
     padding: 0rem 1rem 1rem 1rem;
 }
 
 main {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    /* background-color: blue; */
+    display: block;
 }
 
 #title {
-    /* background-color: red; */
-    text-align: center;
-    font-size: 8em;
-    color: var(--foreground);
-    line-height: 0.75em;
-    resize: vertical;
-    /* filter: drop-shadow(10px 4px 4px #222222); */
-    /* overflow: auto; */
-}
-
-#email {
-    padding-top: 10vh;
-    text-align: center;
     font-size: 2em;
-    color: var(--foreground);
-    resize: vertical;
-    /* filter: drop-shadow(4px 4px 4px #222222); */
+    color: var(--pink);
 }
 
 a {
     text-decoration: none;
-    color: var(--foreground);
+    color: var(--pink);
+}
+
+li::marker {
+    color: var(--pink);
 }
