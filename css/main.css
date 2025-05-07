@@ -4,7 +4,7 @@
 }
 
 :root {
-    --pink: #e8d2d0;
+    --pink: #e7d1cf;
     --coral: #ea5f57;
     --black: black;
     --white: white;
@@ -12,27 +12,35 @@
 
 body {
     font-family: Atkinson, sans-serif;
-    background-color: var(--coral);
+    background-color: var(--pink);
     font-size: 1.5rem;
-    max-width: 40rem;
+    max-width: 50rem;
     margin: 0 auto;
     padding: 0rem 1rem 1rem 1rem;
+    line-height: 1.4em;
 }
 
 main {
     display: block;
 }
 
-#title {
-    font-size: 2em;
-    color: var(--pink);
+h1 {
+    font-size: 4em;
+    color: var(--coral);
+    line-height: 0.75em;
+    margin-bottom: 0.5em;
 }
 
 a {
     text-decoration: none;
-    color: var(--pink);
+    color: var(--coral);
 }
 
 li::marker {
-    color: var(--pink);
+    color: var(--coral);
+}
+
+p {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
 }
